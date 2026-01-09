@@ -10,7 +10,7 @@
     
 ## TL;DR
 ```mermaid
-flowchart LR
+flowchart TD
     A["Source Systems (Snapshots / Deltas / CDC)"]
 
     A --> B["Raw Ingested Datasets (Immutable)"]
