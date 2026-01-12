@@ -25,7 +25,6 @@ This is a summary view of all the benefits of Foundry.
     
     
 ```mermaid    
-<div class="mermaid">  
 flowchart TD
     A["Source Systems (Snapshots / Deltas / CDC)"]
 
@@ -70,8 +69,7 @@ flowchart TD
     M --> Q["Operational Advantage for SCD0–SCD6"]
     N --> Q
     O --> Q
-    P --> Q
-</div>    
+    P --> Q  
 ```      
     
         
