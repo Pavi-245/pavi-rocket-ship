@@ -14,7 +14,10 @@
       document.addEventListener("DOMContentLoaded", () => {
         // this is how jekyll will emit the mermaid blocks
         const codeBlocks = document.querySelectorAll("pre > code.language-mermaid");
+        //
         codeBlocks.forEach((code) => {
+          //
+          console.log("mermaid block found:",code)
           const pre = code.parentElement;
           const mermaidText = code.textContent;
           const div = document.createElement("div");
