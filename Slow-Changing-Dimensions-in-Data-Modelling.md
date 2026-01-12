@@ -11,8 +11,8 @@ title: "Slow Changing Dimensions - A Palantir Foundry Perspective"
 ## Collab     
 1. [Prashant Jha](https://github.com/PrashantJha29), [LinkedIn](https://www.linkedin.com/in/prashantjha29/)    
 2. [Anudeep Chatradi](https://github.com/anudeepchatradi), [LinkedIn](https://www.linkedin.com/in/anudeep-chatradi-78757298/)
-3. Yogesh Raja, [LinkedIn](https://www.linkedin.com/in/yogesh1712/)
-4. Abhishek Narayan Chaudhury, [LinkedIn](https://www.linkedin.com/in/abhishek-chaudhury-07422b191/) 
+3. [Yogesh Raja](https://github.com/yogesh01712), [LinkedIn](https://www.linkedin.com/in/yogesh1712/)
+4. [Abhishek Narayan Chaudhury](https://github.com/achaudhury7378), [LinkedIn](https://www.linkedin.com/in/abhishek-chaudhury-07422b191/) 
     
      
 #### Housekeeping stuff
