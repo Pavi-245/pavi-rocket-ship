@@ -1,10 +1,11 @@
-# Apache Spark 4.1 — Introduction
+# Apache Spark 4.1
 
 ## Collab
 1. [Ankita Hatibaruah](https://github.com/Ahb98), [LinkedIn](http://linkedin.com/in/ankita-hatibaruah-bb2a62218)
 2. [Pavithra Ananthakrishnan](https://github.com/Pavi-245), [LinkedIn](https://www.linkedin.com/in/pavithra-ananthakrishnan-552416244/)
 3. [Sree Bhavya Kanduri](https://github.com/sreebhavya10), [LinkedIn](https://www.linkedin.com/in/kanduri-sree-bhavya-4001a6246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+## Apache Spark 4.1 — Introduction
 Apache Spark 4.1.0 is the latest major release in the Spark 4.x series, continuing the project’s momentum with a strong focus on performance, usability, and developer productivity. Spark remains a unified analytics engine designed for large-scale data processing, offering high-level APIs and optimized execution across distributed environments.
 
 Spark 4.1 improves the developer experience with faster Python support, more capable SQL and streaming engines, enhanced error handling, and lower latency real-time processing. These enhancements make Spark more efficient, robust, and accessible for both traditional big data workloads and modern real-time analytic use cases.
